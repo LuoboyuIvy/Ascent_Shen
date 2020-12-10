@@ -125,7 +125,7 @@ transitional.dtd">
 		<div id="bannerbj2">
 			<div class="banner_wenzi">|&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=request.getContextPath()%>
 
-\index.jsp">Ascent医药商务管理系统首页</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=request.getContextPath()%>
+\index.jsp">这是第一次更改过的Ascent</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=request.getContextPath()%>
 
 \product\itservice.jsp">IT 服务</a>&nbsp;&nbsp;&nbsp;&nbsp;|
 			&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=request.getContextPath()%>\product/products.jsp">电子商
